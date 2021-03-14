@@ -1,0 +1,22 @@
+missing module named resource - imported by posix, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named posix - imported by os, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named _posixsubprocess - imported by subprocess, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named 'org.python' - imported by pickle, G:\School Work\CompileablePythonProgram\NyanCat.pyw, xml.sax
+missing module named readline - imported by cmd, code, pdb, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named 'java.lang' - imported by platform, G:\School Work\CompileablePythonProgram\NyanCat.pyw, xml.sax._exceptions
+missing module named vms_lib - imported by platform, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named termios - imported by tty, getpass, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named grp - imported by tarfile, shutil, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named org - imported by copy, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named ce - imported by os, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named _dummy_threading - imported by dummy_threading, G:\School Work\CompileablePythonProgram\NyanCat.pyw
+missing module named httplib - imported by mysql.connector.fabric.connection
+missing module named urllib2 - imported by mysql.connector.fabric.connection
+missing module named xmlrpclib - imported by mysql.connector.fabric.connection
+missing module named Queue - imported by mysql.connector.pooling
+missing module named ConfigParser - imported by mysql.connector.optionfiles

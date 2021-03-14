@@ -1,0 +1,6 @@
+Method 1, use py2exe - run python script with py2exe installed
+Method 2, use python -m PyInstaller your_script.py to compile via PyInstaller (CAPS MATTER)
+
+setx PATH "%PATH%;C:\Python34\Scripts"
+
+To add where the python.exe is to system path
